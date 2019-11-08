@@ -11,3 +11,4 @@ C:\Users\tugbaa\Documents\Visual Studio 2012\ProjectsCSharp\Calculator_v1\Calcul
 C:\Users\tugbaa\Documents\Visual Studio 2012\ProjectsCSharp\Calculator_v1\Calculator_v1\obj\Debug\Calculator_v1.exe
 C:\Users\tugbaa\Documents\Visual Studio 2012\ProjectsCSharp\Calculator_v1\Calculator_v1\obj\Debug\Calculator_v1.pdb
 C:\Users\tugbaa\Documents\Visual Studio 2012\ProjectsCSharp\Calculator_v1\Calculator_v1\obj\Debug\Calculator_v1.csprojResolveAssemblyReference.cache
+C:\Users\tugbaa\Documents\Visual Studio 2012\ProjectsCSharp\Calculator_v1\Calculator_v1\obj\Debug\App.baml
