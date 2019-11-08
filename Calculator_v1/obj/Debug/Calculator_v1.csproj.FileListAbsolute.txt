@@ -1,0 +1,13 @@
+C:\Users\tugbaa\Documents\Visual Studio 2012\ProjectsCSharp\Calculator_v1\Calculator_v1\bin\Debug\Calculator_v1.exe.config
+C:\Users\tugbaa\Documents\Visual Studio 2012\ProjectsCSharp\Calculator_v1\Calculator_v1\bin\Debug\Calculator_v1.exe
+C:\Users\tugbaa\Documents\Visual Studio 2012\ProjectsCSharp\Calculator_v1\Calculator_v1\bin\Debug\Calculator_v1.pdb
+C:\Users\tugbaa\Documents\Visual Studio 2012\ProjectsCSharp\Calculator_v1\Calculator_v1\obj\Debug\MainWindow.baml
+C:\Users\tugbaa\Documents\Visual Studio 2012\ProjectsCSharp\Calculator_v1\Calculator_v1\obj\Debug\MainWindow.g.cs
+C:\Users\tugbaa\Documents\Visual Studio 2012\ProjectsCSharp\Calculator_v1\Calculator_v1\obj\Debug\App.g.cs
+C:\Users\tugbaa\Documents\Visual Studio 2012\ProjectsCSharp\Calculator_v1\Calculator_v1\obj\Debug\Calculator_v1_MarkupCompile.cache
+C:\Users\tugbaa\Documents\Visual Studio 2012\ProjectsCSharp\Calculator_v1\Calculator_v1\obj\Debug\Calculator_v1.g.resources
+C:\Users\tugbaa\Documents\Visual Studio 2012\ProjectsCSharp\Calculator_v1\Calculator_v1\obj\Debug\Calculator_v1.Properties.Resources.resources
+C:\Users\tugbaa\Documents\Visual Studio 2012\ProjectsCSharp\Calculator_v1\Calculator_v1\obj\Debug\Calculator_v1.csproj.GenerateResource.Cache
+C:\Users\tugbaa\Documents\Visual Studio 2012\ProjectsCSharp\Calculator_v1\Calculator_v1\obj\Debug\Calculator_v1.exe
+C:\Users\tugbaa\Documents\Visual Studio 2012\ProjectsCSharp\Calculator_v1\Calculator_v1\obj\Debug\Calculator_v1.pdb
+C:\Users\tugbaa\Documents\Visual Studio 2012\ProjectsCSharp\Calculator_v1\Calculator_v1\obj\Debug\Calculator_v1.csprojResolveAssemblyReference.cache
